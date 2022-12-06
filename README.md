@@ -1,1 +1,1 @@
-# -ulti-criteria-optimization-methods
+# Multi-criteria-optimization-methods
